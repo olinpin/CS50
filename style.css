@@ -1,0 +1,19 @@
+#title {
+    color: blue;
+    text-align: center;
+}
+table {
+    margin: 40px;
+    border-collapse: collapse;
+    text-align: center;  
+}
+th {
+    background-color: lightgray;  
+}
+th, td {
+    Border: 2px solid black;
+    padding: 5px;   
+}
+#list {
+    font-weight: bold;
+}
